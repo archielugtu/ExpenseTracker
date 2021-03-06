@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Expense Tracker</string>
+    <string name="home_screen_title">Expense Categories:</string>
+    <string name="add_expense_btn_desc">Add Expense</string>
 </resources>
